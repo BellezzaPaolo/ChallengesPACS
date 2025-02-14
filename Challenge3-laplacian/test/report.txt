@@ -1,0 +1,16 @@
+MPI processes: 1 Open MP thread  1:
+	 on a mesh   8 x   8  Iteration count:     34 	 total_time 0.000367239 s ms 	 error: 0.092078
+	 on a mesh  16 x  16  Iteration count:    160 	 total_time 0.00731061 s ms 	 error: 0.0268294
+	 on a mesh  32 x  32  Iteration count:    642 	 total_time 0.0850801 s ms 	 error: 0.00951861
+	 on a mesh  64 x  64  Iteration count:   2449 	 total_time  1.43887 s ms 	 error: 0.00264415
+	 on a mesh 128 x 128  Iteration count:   9101 	 total_time  20.1809 s ms 	 error: 0.00104896
+	 on a mesh 256 x 256  Iteration count:  33255 	 total_time  300.049 s ms 	 error: 7.14001e-05
+
+
+
+MPI processes: 2 Open MP thread  1:
+	 on a mesh   8 x   8  Iteration count:     34 	 total_time 0.00189459 s ms 	 error: 0.0925135
+	 on a mesh  16 x  16  Iteration count:    156 	 total_time 0.0144236 s ms 	 error: 0.0285632
+	 on a mesh  32 x  32  Iteration count:    626 	 total_time 0.0644278 s ms 	 error: 0.0095431
+	 on a mesh  64 x  64  Iteration count:   2380 	 total_time 0.752688 s ms 	 error: 0.0031175
+	 on a mesh 128 x 128  Iteration count:   8818 	 total_time  10.8538 s ms 	 error: 0.000936817
